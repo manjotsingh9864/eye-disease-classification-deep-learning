@@ -36,3 +36,6 @@ Open notebook in Google Colab
 Upload your Kaggle API key
 Run all cells to download data and train models
 View results and comparisons
+
+👤 Author
+Manjot Singh
